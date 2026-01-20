@@ -3,4 +3,4 @@ name=Mipad DPI Fix
 version=v1.0.0
 versionCode=100
 author=Veutexus
-description=A module that disables HW overlays and forces GPU rendering.
+description=A module to fix the DPI issue occurring in HyperOS3 after flashing patched Magisk boot image.
