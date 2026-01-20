@@ -1,2 +1,8 @@
 # mipad_dpi_fix
-Just a temporary module to fix the DPI issue occurring in HyperOS3 after flashing Magisk patched boot image.
+A module that fixes the DPI anomaly in tablet devices running HyperOS3. Especially Xiaomi Pad 6 Pro and Pad 6 Max.
+
+If the issue persist after flashing the module, try running the command below in root to reset Android WindowManager.
+
+```bash
+wm reset
+```
