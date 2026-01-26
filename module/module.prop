@@ -1,6 +1,6 @@
 id=mipad-dpi-fix
 name=Mipad DPI Fix
-version=v1.0.0
-versionCode=100
+version=v1.0.1
+versionCode=101
 author=Veutexus
-description=A module that fixes the DPI anomaly in tablet devices running HyperOS3.
+description=A module that fixes the DPI anomaly on tablets running HyperOS 3.
