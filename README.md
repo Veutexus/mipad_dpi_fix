@@ -10,7 +10,7 @@ ro.sf.lcd_density=360
 
 ```
 
-Simply flashing the module should fix the problem. If the issue persist after flashing the module, try running the command below in root to reset Android WindowManager:
+Simply flashing the module should fix the problem. If the issue persist after flashing, try running the command below in root to reset Android WindowManager:
 
 ```bash
 wm reset
